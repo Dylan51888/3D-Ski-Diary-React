@@ -147,7 +147,7 @@ export const Experience = () => {
             }}
           >
             <img
-              src="images/ski.jpg" //
+              src={`${process.env.PUBLIC_URL}/images/ski.jpg`} // 文件名大小写必须匹配
               alt="Snowman"
               style={{
                 width: "400px",
