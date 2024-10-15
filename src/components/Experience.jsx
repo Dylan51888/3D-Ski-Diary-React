@@ -147,7 +147,7 @@ export const Experience = () => {
             }}
           >
             <img
-              src="/images/ski.jpg"
+              src="images/ski.jpg" //
               alt="Snowman"
               style={{
                 width: "400px",
