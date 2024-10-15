@@ -38,7 +38,7 @@ const OverlayItem = ({
 
 export function Camping(props) {
   const { nodes, materials } = useGLTF(
-    `${import.meta.env.BASE_URL}models/Camping_Asset_Collection.glb`
+    `${import.meta.env.BASE_URL}models/ski.glb`
   );
   return (
     <group {...props} dispose={null}>
@@ -897,6 +897,4 @@ export function Camping(props) {
   );
 }
 
-useGLTF.preload(
-  `${import.meta.env.BASE_URL}models/Camping_Asset_Collection.glb`
-);
+useGLTF.preload(`${import.meta.env.BASE_URL}models/ski.glb`);

@@ -136,7 +136,6 @@ export const Experience = () => {
       </mesh>
       <Environment preset="studio" intensity={1.5} />
 
-      {/* 延迟显示文本和图片 */}
       {currentPage === "store" && showContent && (
         <Html position={[5.8, 2, 0]}>
           <div
