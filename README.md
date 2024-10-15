@@ -2,7 +2,11 @@
 
 3D Ski Diary is an immersive 3D web experience where users can explore a beautifully rendered, low-poly winter landscape. The project uses React Three Fiber to create an interactive 3D environment, with various elements including mountains, trees, snowmen, and a cabin. Users can navigate between different scenes, with elements such as text and images dynamically appearing based on user interactions.
 
+
 Open your browser and go to https://dylan51888.github.io/3D-Ski-Diary-React/ to view the project.
+
+<img width="1462" alt="Screenshot 2024-10-16 at 1 45 52 AM" src="https://github.com/user-attachments/assets/1dcaaa8c-9fb7-49f9-8199-1b9df137ee5d">
+<img width="1428" alt="Screenshot 2024-10-16 at 1 46 01 AM" src="https://github.com/user-attachments/assets/4fff8992-d8b3-49eb-86ff-7f8587234ed8">
 
 Key Features
 
